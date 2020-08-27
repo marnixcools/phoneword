@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "csX5NLPsPvza6jnnQgwBMH/IMFPpCZWvyiN2lVrtX0nb8auMT/MYgv/UjFRJkXEDnnCZPsmA1QKc8oyXgPRBCg==",
+  "success": true,
+  "projectFilePath": "C:\\marnix\\xamarin\\phoneword\\phoneword\\phoneword.iOS\\phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coolsma\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
